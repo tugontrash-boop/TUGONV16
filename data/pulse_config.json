@@ -1,0 +1,13 @@
+{
+  "piServerUrl": "",
+  "telegramBotToken": "",
+  "telegramChatId": "",
+  "telegramSetupComplete": false,
+  "lastBroadcastMessage": "",
+  "lastBroadcastTime": "",
+  "broadcastHistory": [],
+  "kagawadCustomPassword": "",
+  "deletedReportIds": [],
+  "piServerLocked": false,
+  "portalRevision": 12
+}

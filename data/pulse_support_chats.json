@@ -1,0 +1,22 @@
+[
+  {
+    "sessionId": "resident_DEV-ea3f6153-c88b-403d-90a7-9a991db9c548",
+    "residentName": "Residente",
+    "barangay": "Barangay 40",
+    "ticketNumber": "",
+    "status": "RESOLVED",
+    "unreadByOfficial": 0,
+    "unreadByResident": 0,
+    "createdAt": "2026-11-21T23:19:53.369Z",
+    "updatedAt": "2026-11-21T23:20:04.661Z",
+    "messages": [
+      {
+        "id": "sc-1795303193473-vwlm",
+        "sender": "resident",
+        "senderName": "Residente",
+        "text": "hello po, this is Lloyd Ivan Ace, and we submitted a concern the past few days ago. I would like to tell you that the adress that was shown there was not particularly from our baranggay. Because while i was preparing that report, i wasnt at home, but the trash was kept at our front gate. ready for pickup.",
+        "timestamp": "2026-11-21T23:19:53.473Z"
+      }
+    ]
+  }
+]

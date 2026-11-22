@@ -1,0 +1,11 @@
+{
+  "name": "Remix T.U.G.O.N.",
+  "description": "T.U.G.O.N. - Barangay 40 (Gumamela) \u0026 41 (Rosal) Waste Collection Service with Cloud Storage",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
